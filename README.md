@@ -19,4 +19,4 @@ The course was structured in three parts:
 
 The respirometer model and analysis used in the course, was also used in following Conference Proceeding:
 
-  [Influence of uncertainty analysis methods and subjective choices on prediction uncertainty for a respriometric case](https://biblio.ugent.be/publication/3004711), Cierkens Katrijn, Van Hoey Stijn, De Baets Bernard, Seuntjens Piet en Nopens Ingmar (2012) 2012 International congress on environmental modelling and software : managing resources of a limited planet. 
+  [Influence of uncertainty analysis methods and subjective choices on prediction uncertainty for a respriometric case](http://hdl.handle.net/1854/LU-3004711), Cierkens Katrijn, Van Hoey Stijn, De Baets Bernard, Seuntjens Piet en Nopens Ingmar (2012) 2012 International congress on environmental modelling and software : managing resources of a limited planet. 
