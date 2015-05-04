@@ -16,3 +16,6 @@ The course was structured in three parts:
 3. *You don't know the uncertain parameter values, but have (uncertain) data to evaluate the model performance*
   
   PART 3: http://nbviewer.ipython.org/github/stijnvanhoey/2013_UNESCO_uncertainty_course/blob/master/Uncertainty_part3.ipynb
+
+The respirometer model and analysis used in the course, was also used in following Conference Proceeding:
+(*Influence of uncertainty analysis methods and subjective choices on prediction uncertainty for a respriometric case*)[https://biblio.ugent.be/publication/3004711], Cierkens Katrijn, Van Hoey Stijn, De Baets Bernard, Seuntjens Piet en Nopens Ingmar (2012) 2012 International congress on environmental modelling and software : managing resources of a limited planet. 
